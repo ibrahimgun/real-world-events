@@ -1,0 +1,82 @@
+{
+    
+    "events": [
+        {
+            "id": 1,
+            "title": "Vue World Summary",
+            "date": "TUE, OCT 23",
+            "time": "10:00 AM",
+            "status": "Online",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+            "location": "Kadıköy, İstanbul",
+            "category": "Code",
+            "organizer": "İbrahim Gün",
+            "bannerimg":
+              "https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "attendees": [
+              { "id": "abc123", "name": "Berkan Gün" },
+              { "id": "def456", "name": "Talha Uğur"}
+            ]
+          },
+          {
+            "id": 2,
+            "title": "GDG DevFest",
+            "date": "FRI, AUG 14",
+            "time": "13:00 PM",
+            "status": "Conference",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+            "location": "San Francisco, CA",
+            "category": "Development",
+            "organizer": "Google",
+            "bannerimg":
+              "https://storage.kun.uz/source/3/qMJjo-xlzI0crlB0feRawGEU8o_4zs3M.jpg",
+            "attendees": [
+              { "id": "hif143", "name": "Recep Gün" },
+              { "id": "try567", "name": "Bedirhan Uğur"},
+              { "id": "try567", "name": "Bedirhan Uğur"},
+              { "id": "try567", "name": "Bedirhan Uğur"},
+              { "id": "try567", "name": "Bedirhan Uğur"},
+              { "id": "try567", "name": "Bedirhan Uğur"}
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Tesla Battery Day",
+            "date": "MON, SEP 22",
+            "time": "09:00 AM",
+            "status": "Conference",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+            "location": "Fremont, CA 94538",
+            "category": "Electric Car",
+            "organizer": "Elon Musk",
+            "bannerimg":
+              "https://qph.fs.quoracdn.net/main-qimg-dfc1aa073f3ba66a7eac5dd22ebbb2f6.webp",
+            "attendees": [
+              { "id": "qwe123", "name": "Joey Tribbiani" },
+              { "id": "mar234", "name": "Jack Peralta"}
+            ]
+          },
+          {
+            "id": 4,
+            "title": "AWS Global Summit",
+            "date": "WED, MAY 12",
+            "time": "15:00 PM",
+            "status": "Online",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+            "location": "Sakarya University",
+            "category": "Cloud System",
+            "organizer": "Jack Doe",
+            "bannerimg":
+              "https://d1.awsstatic.com/partnermarketing/apn-tv/banners/apn-tv-featured-series-aws-summit-2.888ef374de4ffa46cef9bd89332c4f1c20209d36.jpg",
+            "attendees": [
+              { "id": "qwe123", "name": "Joey Tribbiani" },
+              { "id": "mar234", "name": "Jack Peralta"},
+              { "id": "qwe123", "name": "Joey Tribbiani" },
+              { "id": "mar234", "name": "Jack Peralta"},
+              { "id": "qwe123", "name": "Joey Tribbiani" },
+              { "id": "mar234", "name": "Jack Peralta"}
+            ]
+          }
+    ]
+  }
+  
